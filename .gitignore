@@ -1,0 +1,5 @@
+# Project exclude paths
+/Collection/target/
+/Test/target/
+/Test(OOP)/target/
+/Game/target/
